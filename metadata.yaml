@@ -1,0 +1,42 @@
+_repo: Knock-Knock-Knock-and-Other-Stories_7120
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into English'
+- !lcsh 'Horror tales'
+- !lcsh 'Supernatural -- Fiction'
+tableOfContents: Knock, knock, knock -- The inn -- Lieutenant Yergunov's story --
+  The dog -- The watch.
+title: Knock, Knock, Knock and Other Stories
+url: http://www.gutenberg.org/ebooks/7120
